@@ -1,7 +1,6 @@
 [options]
 addons_path = /mnt/odoo/odoo/addons,/mnt/odoo/addons,/mnt/other-addons,/mnt/excec-addons,/mnt/client-addons
 data_dir = /mnt/data
-; you should have db_user and password in conf for default db to be generated?
 db_user = odoo12
 db_password = odoo12
 ;addons_path = /mnt/extra-addons
